@@ -1,2 +1,2 @@
 # Proiect-Firma
-Proiect Firma
+Designed and developed a dynamic website for bread company as part of a personal project. Leveraged HTML, JavaScript, and CSS to create an immersive online platform. The website features an interactive interface that showcases the company's exquisite range of bread, from rustic sourdoughs to delectable pastries. Implemented engaging animations and smooth navigation to enhance user experience, while ensuring mobile responsiveness for seamless browsing. Through this project, demonstrated proficiency in front-end web development and a keen eye for blending aesthetics with functionality.
